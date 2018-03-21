@@ -6,4 +6,6 @@
 Thanks for [NodeSchool](https://nodeschool.io/#workshopper-list) providing kinds of related resources. At this phase, I plan to get more info about base feature of NodeJs such as async I/O, http, stream and others.   
 ### learnyounode
 First, install [learnyounode](https://github.com/workshopper/learnyounode) and finish it. Just come familiar with some basic concepts of NodeJs during some easy exercise. I wrote my answer under '/learnyoucode'.
-
+### stream-adventure
+Then come to [stream-adventure](https://www.github.com/substack/stream-adventure) to learn more about stream in Node.
+ 
